@@ -1,0 +1,12 @@
+USC key01
+UCLA key02
+UCB key03
+SFU key04
+UCSD key05
+UIUC key06
+UCI key07
+UCD key08
+UMD key09
+MIT key10
+MSU key11
+WUSL key12
